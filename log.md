@@ -1,22 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 14, 2025
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: studied lecture on conditionals in python and overall programming
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** while studying conditionals came to know that i need revision of how to define a variable and also difference between print and return.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 2: March 15,
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Learnt more about conditionals and their syntax and how to use them.
+
+**Thoughts**: i need to invest more time on this, ideally 3-4 hours a day only then i will be able to make significant progress as i am at complete noob level. but hey atleast i did something
+
 
 
 ### Day 1: June 27, Monday
