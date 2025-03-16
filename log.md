@@ -8,7 +8,7 @@
 **Thoughts:** while studying conditionals came to know that i need revision of how to define a variable and also difference between print and return.
 
 
-### Day 2: March 15,
+### Day 2: March 15, 2025
 
 
 **Today's Progress**: Learnt more about conditionals and their syntax and how to use them.
@@ -17,12 +17,8 @@
 
 
 
-### Day 1: June 27, Monday
+### Day 3: March 16, Sunday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Went through another short on boolean expressions and how to use AND OR NOT  and how to combine them together to write better code. even coded a better version of game recommender.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** Still making mistakes on syntax need to be more mindful of that and above all need to study for longer period of time. i need to find time.
