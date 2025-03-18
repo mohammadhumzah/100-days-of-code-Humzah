@@ -22,3 +22,11 @@
 **Today's Progress**: Went through another short on boolean expressions and how to use AND OR NOT  and how to combine them together to write better code. even coded a better version of game recommender.
 
 **Thoughts** Still making mistakes on syntax need to be more mindful of that and above all need to study for longer period of time. i need to find time.
+
+### Day 5: March 18, Tuesday
+
+Didnt code yesterday due to a function.
+
+**Today's Progress**: Solved a problem of psrt one based on conditionals. need to revise stuff more
+
+**Thoughts**: NEED TO SPEND MORE TIME else this just sounds like a hobby.
