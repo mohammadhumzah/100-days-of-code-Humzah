@@ -30,3 +30,9 @@ Didnt code yesterday due to a function.
 **Today's Progress**: Solved a problem of psrt one based on conditionals. need to revise stuff more
 
 **Thoughts**: NEED TO SPEND MORE TIME else this just sounds like a hobby.
+
+### Day 6: March 19, Wednesday 
+
+** Today's Progress**: Solved 3 problems, in the first and second learnt about more string methods like startswith() & endswith(). i didn't know about these string methods so i had to take help from internet.
+
+**Thoughts**: I think i should utilise the duck from CS50 to give me hints. the good part was that i spent more time today and learnt something too. will need to revise small little things, most of the problems i am facing is due to lack of not knowing syntax, will try and tackle this problem by revising and reading more.
