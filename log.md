@@ -36,3 +36,10 @@ Didnt code yesterday due to a function.
 **Today's Progress**: Solved 3 problems, in the first and second learnt about more string methods like startswith() & endswith(). i didn't know about these string methods so i had to take help from internet.
 
 **Thoughts**: I think i should utilise the duck from CS50 to give me hints. the good part was that i spent more time today and learnt something too. will need to revise small little things, most of the problems i am facing is due to lack of not knowing syntax, will try and tackle this problem by revising and reading more.
+
+
+### Day 7: March 21, Thrusday
+
+**Today's Progress**: Solved a problem based on meal timings. Had to use conditionals and also there was a need to define own function. Also revised some previous stuff to brush up my syntax. The meal timing problem could have been done all by myself if i continued first writing solution on paper, need to understand each part of question before going to solve it.
+
+**Thoughts**: Whilst revising i realised the problems up until now have been easy, or do they seem easy to me now. I can figure out what to do most of the time but i need to learn how to convert it into proper code. 
