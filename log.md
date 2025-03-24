@@ -53,3 +53,10 @@ I need to get in on this now. Make it a priority
 **Thoughts**: Pythonic code makes it easy to code i need learn more ways how to do it. like today i learnt about range function which allows to go upto infinite number of values repeatedly by one click. Also learnt if some variable is not important designate it with _ 
 
 Another one was the print("meow"*3). Through this also revised about parameters of print function
+
+
+### Day 9: March 23, Sunday
+
+**Todays Progress**: Completed lecture on loops and learnt use of dictionaries and Lists and list of dictionaries.
+
+**Thoughts**: Course is actually starting now so i need to devote more time.
