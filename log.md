@@ -60,3 +60,9 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 **Todays Progress**: Completed lecture on loops and learnt use of dictionaries and Lists and list of dictionaries.
 
 **Thoughts**: Course is actually starting now so i need to devote more time.
+
+### Day 10: March 24, Monday
+
+**Todays Progress**: Completed a short based on dictionaries and dictionary methods like keys,value,pop,get.
+
+**Thoughts**:Not enough time i studied so no thoughts
