@@ -66,3 +66,9 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 **Todays Progress**: Completed a short based on dictionaries and dictionary methods like keys,value,pop,get.
 
 **Thoughts**:Not enough time i studied so no thoughts
+
+### Day 11: March 25, Tuesday
+
+**Todays Progress**: Learnt about dictionary and list methods. Also learnt about tuples and when to use them and string slicing and how to do it.
+
+**Thoughts**: I need to practice the syntax of everything i have learnt before solving the pset. Lots of pythonic code to understand and only by writing code myself will i understand it better. That will be better than making notes
