@@ -73,15 +73,20 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 
 **Thoughts**: I need to practice the syntax of everything i have learnt before solving the pset. Lots of pythonic code to understand and only by writing code myself will i understand it better. That will be better than making notes
 
-###Day 12: March 26, Wednesday 
+### Day 12: March 26, Wednesday 
 
 **Todays Progress**:Wrote syntax of previously mentioned dictionary and list methods like get("":"","":"") keys(). 
 
 **Thoughts**:Need to get better at pythonic code writing, combining functions loops conditionals. Making full use of python
 
-###Day 13: March 28, Friday
+### Day 13: March 28, Friday
 
 **Today's Progress**: Solved 4 Pset problems. Camel.py, twttr.py, coke.py, plates.py. Combined string methods with conditionals. Also learnt string slicing s[i:] which slices string from ith index till end
 
 **Thoughts**: Learnt about concatenation of strings without overwriting them using string+=. Used Lists, also used new string methods like isupper() which lets us know whether a letter is upper case,isalnum() which lets us know if our input has alphabets and numbers only. Also made use of isdigit() whether it is a digit or not.
 
+### Day 14: March 29, Saturday
+
+**Today's Progress**: Learnt about exceptions and debugging and how to predict exceptions and handle them before hand.
+
+**Thoughts**: For 2 consecutive days i programmed for couple of hours without knowing. Need to write more code myself in order to become efficient and better
