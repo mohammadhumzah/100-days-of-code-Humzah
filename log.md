@@ -90,3 +90,7 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 **Today's Progress**: Learnt about exceptions and debugging and how to predict exceptions and handle them before hand.
 
 **Thoughts**: For 2 consecutive days i programmed for couple of hours without knowing. Need to write more code myself in order to become efficient and better
+
+### Day 15: March 30, Sunday
+
+**Today's Progress**: Solved problem based on exceptions. Learnt about "continue" statement when i want to repeat some action previously taken. 
