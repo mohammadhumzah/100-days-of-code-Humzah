@@ -94,3 +94,11 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 ### Day 15: March 30, Sunday
 
 **Today's Progress**: Solved problem based on exceptions. Learnt about "continue" statement when i want to repeat some action previously taken. 
+
+### Day 16: April 3, Thrusday
+
+**Today's Progress**: Solved 2 problems based on loops and conditionals and use of exceptions.
+
+###Day 17: April 4, Friday
+ 
+**Today's Progress**: Completed pset 3. The problem today was bit complicated with use of multiple concepts.
