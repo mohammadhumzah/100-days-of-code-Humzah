@@ -102,3 +102,9 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 ### Day 17: April 4, Friday
  
 **Today's Progress**: Completed pset 3. The problem today was bit complicated with use of multiple concepts.
+
+### Day 18 & 19: April 23 and April 24
+
+**Today's Progress**: Started the course again after 2 week break due to mid sems. Learnt from week 4 lecture related to libraries, different sort of libraries such as sys. Also Learnt about API calling and JSON Format.
+
+**Thoughts**: Need to ramp up to cover up for the time lost. Will write more code myself, to implement above concepts and get familiar with their syntax such as when to use get function and when no need. Waking earlier to do this is the only way.
