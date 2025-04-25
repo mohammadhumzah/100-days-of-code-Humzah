@@ -108,3 +108,7 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 **Today's Progress**: Started the course again after 2 week break due to mid sems. Learnt from week 4 lecture related to libraries, different sort of libraries such as sys. Also Learnt about API calling and JSON Format.
 
 **Thoughts**: Need to ramp up to cover up for the time lost. Will write more code myself, to implement above concepts and get familiar with their syntax such as when to use get function and when no need. Waking earlier to do this is the only way.
+
+### Day 20 and 21:
+
+**Today's Progress**: Solved problem set based on libraries, except one problem involving API calls. Will do tomorrow 
