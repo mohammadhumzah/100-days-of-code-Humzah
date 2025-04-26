@@ -113,7 +113,7 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 
 **Today's Progress**: Solved problem set based on libraries, except one problem involving API calls. Will do that tomorrow.
 
-### Day 22: April 27
+### Day 22: April 26, Saturday
 
 **Today's Progress**: Completed problem based on api calling for bitcoin price. Also learnt about unit tests and use of pytest.
 
