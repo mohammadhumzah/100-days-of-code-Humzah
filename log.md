@@ -109,7 +109,7 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 
 **Thoughts**: Need to ramp up to cover up for the time lost. Will write more code myself, to implement above concepts and get familiar with their syntax such as when to use get function and when no need. Waking earlier to do this is the only way.
 
-### Day 20 and 21:
+### Day 20 and 21: Friday
 
 **Today's Progress**: Solved problem set based on libraries, except one problem involving API calls. Will do that tomorrow.
 
