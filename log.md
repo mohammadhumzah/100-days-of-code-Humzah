@@ -118,4 +118,10 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 **Today's Progress**: Completed problem based on api calling for bitcoin price. Also learnt about unit tests and use of pytest.
 
 **Thoughts**: Getting a bit better at it, need to hasten up and complete pset tomorrow along with another lecture.
+
+###Day 23: April 27, Sunday
+
+**Today's Progress**: Did 2 problems based on writing unit tests. Need to write more psuedo code.
+
+**Thoughts**: Should have done more, will complete 2 lectures this week.
  
