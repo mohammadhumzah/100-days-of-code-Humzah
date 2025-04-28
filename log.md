@@ -124,4 +124,10 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 **Today's Progress**: Did 2 problems based on writing unit tests. Need to write more psuedo code.
 
 **Thoughts**: Should have done more, will complete 2 lectures this week.
+
+### Day 24: April 28, Monday
+
+**Today's Progress**: Completed problemset on unit tests and now i know how and what sort of tests to write.
+
+**Thoughts**: Will complete next lecture tomorrow.
  
