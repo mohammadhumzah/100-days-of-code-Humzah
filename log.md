@@ -130,4 +130,10 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 **Today's Progress**: Completed problemset on unit tests and now i know how and what sort of tests to write.
 
 **Thoughts**: Will complete next lecture tomorrow.
+
+### Day 25:April 30, Wednesday 
+
+**Today's Progress**: Watched half a lecture based on file input output and use of keywords with, open and use of CSV files.
+
+**Thoughts**: Getting to the point where i need to decide what i want to do in life. Balancing both ChemE and programming is extremely difficult.
  
