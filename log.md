@@ -136,4 +136,10 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 **Today's Progress**: Watched half a lecture based on file input output and use of keywords with, open and use of CSV files.
 
 **Thoughts**: Getting to the point where i need to decide what i want to do in life. Balancing both ChemE and programming is extremely difficult.
+
+### Day 26: May 4, Sunday
+
+**Today's Progress**: Completed 2 problems one based on counting the number of lines in code and other based on reading csv format and printing it using tabulate library.
+
+**Thoughts**: Disappointed wasted last 2,3 days due to lack of energy and laziness. Will make upcoming week productive
  
