@@ -141,5 +141,9 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 
 **Today's Progress**: Completed 2 problems one based on counting the number of lines in code and other based on reading csv format and printing it using tabulate library.
 
-**Thoughts**: Disappointed wasted last 2,3 days due to lack of energy and laziness. Will make upcoming week productive
+**Thoughts**: Disappointed wasted last 2,3 days due to lack of energy and laziness. Will make upcoming week productive.
+
+### Day 27: May 5, Monday
+
+**Today's Progress**: Completed pset on file i/o. wrote most of code myself with little help from ai. Overall satisfied today.
  
