@@ -147,3 +147,6 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 
 **Today's Progress**: Completed pset on file i/o. wrote most of code myself with little help from ai. Overall satisfied today.
  
+### Day 28: May 6, Tuesday
+
+**Today's Progress**: Learnt about Regular Expressions and in particular re.search and 1 real world application in google forms.
