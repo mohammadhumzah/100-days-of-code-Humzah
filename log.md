@@ -150,3 +150,7 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 ### Day 28: May 6, Tuesday
 
 **Today's Progress**: Learnt about Regular Expressions and in particular re.search and 1 real world application in google forms.
+
+### Day 29: May 7, Wednesday 
+
+**Today's Progress**: Was tired due to shit ass college work, still studied a bit more about regex. will complete it by tomorrow 
