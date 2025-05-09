@@ -158,3 +158,5 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 ### Day 30: May 9, Friday
 
 **Today's Progress**: Completed lecture+shorts on regexs and focus is on not believing that the user will provide input in valid form, so we have to prepare for it using regexs.
+
+**Thoughts**: Have whole set of 10-12 days at home, have to complete the course by then plus learn excel. And for that need to follow a fixed sort of schedule with less Sleep during day.
