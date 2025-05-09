@@ -153,4 +153,8 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 
 ### Day 29: May 7, Wednesday 
 
-**Today's Progress**: Was tired due to shit ass college work, still studied a bit more about regex. will complete it by tomorrow 
+**Today's Progress**: Was tired due to shit ass college work, still studied a bit more about regex. will complete it by tomorrow.
+
+### Day 30: May 9, Friday
+
+**Today's Progress**: Completed lecture+shorts on regexs and focus is on not believing that the user will provide input in valid form, so we have to prepare for it using regexs.
