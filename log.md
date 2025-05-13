@@ -160,3 +160,7 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 **Today's Progress**: Completed lecture+shorts on regexs and focus is on not believing that the user will provide input in valid form, so we have to prepare for it using regexs.
 
 **Thoughts**: Have whole set of 10-12 days at home, have to complete the course by then plus learn excel. And for that need to follow a fixed sort of schedule with less Sleep during day.
+
+### Day 31 & 32: May 10,14
+
+**Today's Progress**: Completed the toughest problem till now, what i learnt was to break down the problem into very small subset. Then write an extremely silly version of the answer and then clean it up with time.
