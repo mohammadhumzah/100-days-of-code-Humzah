@@ -164,3 +164,9 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 ### Day 31 & 32: May 10,14
 
 **Today's Progress**: Completed the toughest problem till now, what i learnt was to break down the problem into very small subset. Then write an extremely silly version of the answer and then clean it up with time.
+
+### Day 33: May 15, Thrusday
+
+**Today's Progress**: Completed problem set on regexs and did some analysis on what to do for future.
+
+**Thoughts**: Still unable to think in multiple concepts. Don't write enough psuedo code. Just 4 months away from placements with 1 month will be going towards end sems. Need to really really up my game.
