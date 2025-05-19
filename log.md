@@ -170,3 +170,10 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 **Today's Progress**: Completed problem set on regexs and did some analysis on what to do for future.
 
 **Thoughts**: Still unable to think in multiple concepts. Don't write enough psuedo code. Just 4 months away from placements with 1 month will be going towards end sems. Need to really really up my game.
+
+## Day 34: May 19, Monday
+
+**Today's Progress**: Studied bit about P.O.O.P
+
+**Thoughts**: Taken too many breaks in between lectures, need more consistency.
+Will lock in starting tomorrow for 7-8 hours minimum, gotta eat breath and sleep CODE!!
