@@ -177,3 +177,9 @@ Another one was the print("meow"*3). Through this also revised about parameters 
 
 **Thoughts**: Taken too many breaks in between lectures, need more consistency.
 Will lock in starting tomorrow for 7-8 hours minimum, gotta eat breath and sleep CODE!!
+
+##Day 35: May 20, Tuesday 
+
+**Today's Progress**: Completed shorts and lecture on OOPs concepts like inheritance and all.
+
+**Thoughts**: Should have studied during college lectures too since classes are online.
