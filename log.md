@@ -183,3 +183,7 @@ Will lock in starting tomorrow for 7-8 hours minimum, gotta eat breath and sleep
 **Today's Progress**: Completed shorts and lecture on OOPs concepts like inheritance and all.
 
 **Thoughts**: Should have studied during college lectures too since classes are online.
+
+## Day 36 & 37: May 21-22, Wed-Thrus
+
+**Today's Progress**: Took 2 days to complete pset of python object oriented programming or P.O.O.P
