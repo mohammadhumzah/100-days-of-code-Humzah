@@ -187,3 +187,10 @@ Will lock in starting tomorrow for 7-8 hours minimum, gotta eat breath and sleep
 ## Day 36 & 37: May 21-22, Wed-Thrus
 
 **Today's Progress**: Took 2 days to complete pset of python object oriented programming or P.O.O.P
+
+## Day 38: May 24, Saturday 
+
+**Today's Progress**: Learnt about miscellaneous stuff left of the course like typehints, mypy library and ArgParse.
+
+**Thoughts**: Will complete remaining topics of the course tomorrow and start working on the final project tomorrow itself.
+
