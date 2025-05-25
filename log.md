@@ -194,7 +194,7 @@ Will lock in starting tomorrow for 7-8 hours minimum, gotta eat breath and sleep
 
 **Thoughts**: Will complete remaining topics of the course tomorrow and start working on the final project tomorrow itself.
 
-##Day 39: May 25, Sunday
+## Day 39: May 25, Sunday
 
 **Today's Progress**: Finished all course material of CS50P. Learnt about advanced unpacking, *args,**kwargs, list and dict comprehensions. A bit about Functional programming where you use direct functions on each iterable like map, filter so it doesn't change value of variables and much more.
 
