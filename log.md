@@ -200,3 +200,9 @@ Will lock in starting tomorrow for 7-8 hours minimum, gotta eat breath and sleep
 
 **Thoughts**: Didn't start the final project but will do it starting tomorrow. Also will solve a beginners coding sheet in parallel to it.
 
+## Day 40 & 41: May 26-27, Monday-Tuesday
+
+**Today's Progress**: I COMPLETED CS50P FINALLY!!. Took 2 days to complete the final project which is CLI program that tracks attendance and tells how many classes one can miss or needs to attend to in order to maintain 75% attendance criteria.
+
+**Thoughts**: First thought was to copy project from somewhere since it was my first time building something. But then i started working on a problem i myself faced  and gave it touch of fun element. Took 20 extra days to complete the course too.
+But happy that i did it. Have decent hold on python now. Need to build more.
