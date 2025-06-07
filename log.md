@@ -206,3 +206,10 @@ Will lock in starting tomorrow for 7-8 hours minimum, gotta eat breath and sleep
 
 **Thoughts**: First thought was to copy project from somewhere since it was my first time building something. But then i started working on a problem i myself faced  and gave it touch of fun element. Took 20 extra days to complete the course too.
 But happy that i did it. Have decent hold on python now. Need to build more.
+
+
+## Day 42 & 43: June 5 & June 6
+
+**Today's Progress**: Worked both days on learning on top of cs50 course. Built some projects like "Dark Joke Bot",still lot of work to do.
+
+**Thoughts**: Lacking consistency big time, need to wake up and study, delaying it till evening won't work. Need to complete one major project too.
