@@ -208,8 +208,13 @@ Will lock in starting tomorrow for 7-8 hours minimum, gotta eat breath and sleep
 But happy that i did it. Have decent hold on python now. Need to build more.
 
 
-## Day 42 & 43: June 5 & June 6
+## Day 42 & 43: June 6 & June 7
 
 **Today's Progress**: Worked both days on learning on top of cs50 course. Built some projects like "Dark Joke Bot",still lot of work to do.
 
 **Thoughts**: Lacking consistency big time, need to wake up and study, delaying it till evening won't work. Need to complete one major project too.
+
+## Day 44: June 8, Sunday
+
+**Today's Progress**:  Built a python script that pops up dark jokes as macOS notifications.
+Notifications are sent natively using subprocess module and terminal notifier.
