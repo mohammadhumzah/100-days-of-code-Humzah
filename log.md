@@ -218,3 +218,12 @@ But happy that i did it. Have decent hold on python now. Need to build more.
 
 **Today's Progress**:  Built a python script that pops up dark jokes as macOS notifications.
 Notifications are sent natively using subprocess module and terminal notifier.
+
+## Day 45 & 46: June 15,16
+
+**Today's Progress**: Learnt basics of how flask works.
+Built first major project and got it running.
+Put voice utility to joke bot project too.
+
+**Thoughts**: Tomorrow probably last day before i take long break for fucking chemical engineering end sems. Will make resume tomorrow, hopefully i will get a summer intern soon.
+Will resume with SQL and basic DSA and write more code after end sems.
