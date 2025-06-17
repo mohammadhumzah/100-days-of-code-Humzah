@@ -227,3 +227,9 @@ Put voice utility to joke bot project too.
 
 **Thoughts**: Tomorrow probably last day before i take long break for fucking chemical engineering end sems. Will make resume tomorrow, hopefully i will get a summer intern soon.
 Will resume with SQL and basic DSA and write more code after end sems.
+
+## Day 47 & 48: June 17,18
+
+**Thoughts**:  Made my first tech resume after years of thinking about it.
+Now gonna apply for intern the next 2 weeks. Have my endsems for the next 2 weeks no coding. Past 48 days could have been more productive but something is better than nothing.
+Will resume with SQL,DSA after exams with better energy, enthusiasm vigor and discipline.
